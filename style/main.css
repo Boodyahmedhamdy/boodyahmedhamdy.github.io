@@ -433,8 +433,7 @@ section .row span {
 #contact .contact-wrapper {
   margin-top: 3.2rem;
   padding: 0 2rem;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 #contact .contact-wrapper__text {
   margin-bottom: 2.5rem;
